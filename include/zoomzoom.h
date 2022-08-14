@@ -26,5 +26,6 @@
 #define sheesh malloc
 #define nah free
 #define ayo calloc
+#define trust const
 
 #endif

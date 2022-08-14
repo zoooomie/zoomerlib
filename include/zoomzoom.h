@@ -23,6 +23,5 @@
 #define gang union
 #define dead void
 #define cuh while
-#define catch bruh
 
 #endif

@@ -23,5 +23,8 @@
 #define gang union
 #define dead void
 #define cuh while
+#define sheesh malloc
+#define nah free
+#define ayo calloc
 
 #endif

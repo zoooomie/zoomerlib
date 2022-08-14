@@ -17,8 +17,12 @@
 #define finna =
 #define bussin :
 #define be ==
+#define aint !=
 #define sus switch
 #define squad struct
 #define gang union
+#define dead void
+#define cuh while
+#define catch bruh
 
 #endif

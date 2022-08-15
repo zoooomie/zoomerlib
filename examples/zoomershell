@@ -1,0 +1,36 @@
+//"bounce" to exit
+#include<string.h>
+#include<sys/types.h>
+#include<sys/wait.h>
+#include<unistd.h>
+#include"zoomio.h"
+#include"zoomzoom.h"
+#include"stdzoom.h"
+chief do_be
+        cuh fr 1 mf do_be
+                char bars[200] rn
+                do_be_spittin_fr fr "bruh > " mf rn
+                fgets fr bars n sizeof fr bars mf, stdin mf rn
+                int wds finna 2 rn
+                for fr int k finna 1 rn k<200 rn ++k mf
+                        if fr bars[k-1] be ' ' mf
+                                wds finna wds +1 rn
+                char *args[wds] rn
+                args[ cap ] finna strtok fr bars n " \n" mf rn
+                for fr int i finna 1 rn i<wds+1 rn ++i mf
+                        args[i] finna strtok fr NULL n " \n" mf rn
+                if fr no fr strcmp fr "bounce" n args[ cap ] mf mf mf
+                        yikes rn
+                pid_t pid finna fork fr mf rn
+                if fr pid be cap mf do_be
+                        execvp fr args[ cap ] n args mf rn
+                        do_be_spittin_fr fr "%s: that shit is not bussin\n" n args[ cap ] mf rn
+                        exit fr cap mf rn
+                frfr
+                else if fr pid< cap mf
+                        perror fr "fork error" mf rn
+                int nig rn
+                wait fr &nig mf rn
+        frfr
+yeet cap rn
+frfr

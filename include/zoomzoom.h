@@ -24,5 +24,6 @@
 #define dead void
 #define cuh while
 #define trust const
+#define fo for
 
 #endif

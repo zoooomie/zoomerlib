@@ -18,6 +18,7 @@
 #define bussin :
 #define be ==
 #define aint !=
+#define gangup +
 #define sus switch
 #define squad struct
 #define gang union

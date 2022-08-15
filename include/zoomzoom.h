@@ -15,6 +15,7 @@
 #define 🗑️yeet🚮 return
 #define 💢bouta😐🤨😳 &
 #define 💢finna😳 =
+#define 🤨 ?
 #define bussy🍑🐱🍆💦💧 :
 #define 🤨be😳 ==
 #define ✖️aint❌ !=

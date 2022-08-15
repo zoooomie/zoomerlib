@@ -26,5 +26,7 @@
 #define cuh while
 #define trust const
 #define fo for
+#define cappin false
+#define ong true
 
 #endif

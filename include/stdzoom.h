@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 #define sheesh malloc
-#define nah free
+#define cancel free
 #define ayo calloc
 
 #endif

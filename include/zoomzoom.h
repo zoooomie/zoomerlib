@@ -33,5 +33,7 @@
 #define ratios >
 #define stans < 
 #define GOAT INT_MAX
+#define mood case
+
 
 #endif

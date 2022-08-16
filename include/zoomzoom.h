@@ -28,5 +28,10 @@
 #define fo for
 #define cappin false
 #define ong true
+#define W EXIT_SUCCESS
+#define L EXIT_FAILURE
+#define ratios >
+#define stans < 
+#define GOAT INT_MAX
 
 #endif

@@ -1,4 +1,5 @@
 #ifndef ZOOMZOOM_H
+#include <stdbool.h> 
 #define ZOOMZOOM_H
 
 #define rn ;

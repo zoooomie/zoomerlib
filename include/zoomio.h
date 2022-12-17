@@ -11,5 +11,6 @@
 #define yo_yeet_sus_handle_fr fclose
 #define yo_git_dat_shiet_outa_hier_fr remove
 #define yo_sus_handle_do_be_flushin fflush
+#define yahurrd perror
 
 #endif

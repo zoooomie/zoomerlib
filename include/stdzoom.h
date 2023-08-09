@@ -1,5 +1,5 @@
-#ifndef STDZOOM_H
-#define STDZOOM_H
+#ifndef stdzoom_h
+#define stdzoom_h
 
 #include <stdlib.h>
 

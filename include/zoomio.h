@@ -1,5 +1,5 @@
-#ifndef ZOOMIO_H
-#define ZOOMIO_H
+#ifndef zoomio_h
+#define zoomio_h
 
 #include <stdio.h>
 

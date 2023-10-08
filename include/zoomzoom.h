@@ -31,7 +31,7 @@
 #define W EXIT_SUCCESS
 #define L EXIT_FAILURE
 #define ratios >
-#define stans < 
+#define opps < 
 #define GOAT INT_MAX
 
 #endif
